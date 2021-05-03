@@ -1,0 +1,507 @@
+{
+  "xdragonprince": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 2.0",
+    "userid": "xdragonprince",
+    "poke": 0,
+    "time": 71677696,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3,
+        "awakening": 10
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 9,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [
+        "Umbreon||leftovers||crunch,darkpulse,foulplay,thief|Modest||none|255,255,255,255,255,255|S||150,,ultraball,1663.75,xdragonprince"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "Xerneas",
+        "species": "Xerneas",
+        "item": "wikiberry",
+        "ability": "Fairy Aura",
+        "moves": [
+          "geomancy",
+          "moonblast",
+          "outrage",
+          "Close Combat"
+        ],
+        "nature": "Modest",
+        "gender": "none",
+        "ivs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 255
+        },
+        "shiny": true,
+        "level": 100,
+        "happiness": 150,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1250000,
+        "ot": "xdragonprince",
+        "evs": {
+          "hp": 2,
+          "atk": 8,
+          "def": 1,
+          "spa": 6,
+          "spd": 2,
+          "spe": 2
+        }
+      },
+      {
+        "name": "Groudon",
+        "species": "Groudon",
+        "item": "redorb",
+        "ability": "Drought",
+        "moves": [
+          "Precipice Blades",
+          "eruption",
+          "meanlook",
+          "solarbeam"
+        ],
+        "nature": "Impish",
+        "evs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 25
+        },
+        "gender": "M",
+        "ivs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 255
+        },
+        "level": 100,
+        "happiness": 150,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1250000,
+        "ot": "xdragonprince"
+      },
+      {
+        "name": "Aqua Queen",
+        "species": "Kyogre",
+        "item": "blueorb",
+        "ability": "Primordial Sea",
+        "moves": [
+          "originpulse",
+          "icebeam",
+          "earthquake",
+          "brickbreak"
+        ],
+        "nature": "Impish",
+        "evs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 25
+        },
+        "gender": "M",
+        "ivs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 255
+        },
+        "level": 100,
+        "happiness": 150,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1250000,
+        "ot": "xdragonprince"
+      },
+      {
+        "name": "Mewtwo",
+        "species": "Mewtwo",
+        "item": "mewtwonitex",
+        "ability": "pressure",
+        "moves": [
+          "earthquake",
+          "Stone Edge",
+          "meteormash",
+          "brickbreak"
+        ],
+        "nature": "Sassy",
+        "gender": "F",
+        "ivs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 255
+        },
+        "shiny": true,
+        "level": 100,
+        "happiness": 150,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 3430,
+        "ot": "xdragonprince"
+      },
+      {
+        "name": "Rayquaza",
+        "species": "Rayquaza",
+        "item": "wikiberry",
+        "ability": "Air Lock",
+        "moves": [
+          "dragonascent",
+          "v-create",
+          "dracometeor",
+          "dragonpulse"
+        ],
+        "nature": "Relaxed",
+        "evs": {
+          "hp": 3,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 2
+        },
+        "gender": "F",
+        "ivs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 255
+        },
+        "shiny": true,
+        "level": 100,
+        "happiness": 150,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 1250000,
+        "ot": "xdragonprince"
+      },
+      {
+        "name": "arceus",
+        "species": "arceus",
+        "item": "leftovers",
+        "ability": "Multitype",
+        "moves": [
+          "earthpower",
+          "extremespeed",
+          "recover",
+          "ancientpower"
+        ],
+        "nature": "Serious",
+        "gender": "M",
+        "ivs": {
+          "hp": 255,
+          "atk": 255,
+          "def": 255,
+          "spa": 255,
+          "spd": 255,
+          "spe": 255
+        },
+        "shiny": true,
+        "level": 100,
+        "happiness": 150,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 6141.25,
+        "ot": "xdragonprince"
+      }
+    ],
+    "pokedex": {}
+  },
+  "articuskingyt": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "articuskingyt",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 47,
+        "greatball": 23,
+        "ultraball": 9,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "TimbaVK",
+        "species": "prinplup",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "bubble",
+          "growl",
+          "peck",
+          "metalclaw"
+        ],
+        "nature": "Relaxed",
+        "gender": "F",
+        "ivs": {
+          "hp": 7,
+          "atk": 5,
+          "def": 29,
+          "spa": 23,
+          "spd": 14,
+          "spe": 14
+        },
+        "level": 16,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 2800.0984954590754,
+        "ot": "articuskingyt",
+        "evs": {
+          "hp": 0,
+          "atk": 8,
+          "def": 9,
+          "spa": 4,
+          "spd": 0,
+          "spe": 5
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "manuytx": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "manuytx",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "torchic",
+        "species": "torchic",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "sandattack",
+          "ember",
+          "scratch",
+          "growl"
+        ],
+        "nature": "Calm",
+        "gender": "M",
+        "ivs": {
+          "hp": 5,
+          "atk": 4,
+          "def": 14,
+          "spa": 8,
+          "spd": 9,
+          "spe": 31
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 560,
+        "ot": "manuytx"
+      }
+    ],
+    "pokedex": {}
+  },
+  "clover14": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "clover14",
+    "poke": 0,
+    "time": 4436,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 44,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [
+        "espeon||||babydolleyes,sandattack,tailwhip,tackle|Naive||M|22,14,,9,,29||9|70,,pokeball,729,clover14"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "decidueye",
+        "species": "decidueye",
+        "item": "decidiumz",
+        "ability": "Long Reach",
+        "moves": [
+          "swordsdance",
+          "spiritshackle",
+          "shadowsneak",
+          "roost"
+        ],
+        "nature": "Adamant",
+        "gender": "M",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "level": 60,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 5732.313755827748,
+        "ot": "clover14",
+        "evs": {
+          "hp": 3,
+          "atk": 252,
+          "def": 3,
+          "spa": 7,
+          "spd": 4,
+          "spe": 252
+        }
+      }
+    ],
+    "pokedex": {}
+  }
+}
